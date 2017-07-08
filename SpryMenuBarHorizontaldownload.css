@@ -36,7 +36,7 @@ ul.MenuBarHorizontal li
 	text-align: center;
 	border: 0px dotted #000;
 	cursor: pointer;
-	width: 3.8em;
+	width: 4em;
 	height:auto;
 	float: left;
 }
@@ -50,7 +50,7 @@ ul.MenuBarHorizontal ul
 	z-index: 1020;
 	cursor: default;
 	width: 8.2em;
-	border: 2px solid #000;
+	border: 0px solid #000;
 	position: absolute;
 	left: -1000em;
 }
@@ -86,7 +86,7 @@ ul.MenuBarHorizontal ul.MenuBarSubmenuVisible ul.MenuBarSubmenuVisible
 /* Submenu containers have borders on all sides */
 ul.MenuBarHorizontal ul
 {
-	border: 2px solid #000;
+	border: 0px solid #000;
 }
 /* Menu items are a light gray block with padding and no text decoration */
 ul.MenuBarHorizontal a
