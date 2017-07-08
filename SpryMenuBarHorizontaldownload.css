@@ -34,7 +34,7 @@ ul.MenuBarHorizontal li
 	font-size: 100%;
 	position: relative;
 	text-align: center;
-	border: 1px dotted #000;
+	border: 0px dotted #000;
 	cursor: pointer;
 	width: 3.8em;
 	height:auto;
